@@ -60,9 +60,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MissKiruri&theme=contrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)       [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MissKiruri&count_private=true&theme=tokyonight&showicons=true)]()
+[![GitHub Streak](https://streak-stats.demolab.com?user=MissKiruri&theme=highcontrast&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MissKiruri&langs_count=5&theme=tokyonight)]()
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MissKiruri&count_private=true&theme=highcontrast&showicons=true)]()
+
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MissKiruri&langs_count=5&theme=highcontrast)]()
 
 ---
 
